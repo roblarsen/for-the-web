@@ -13,3 +13,6 @@ The main output of the project should be able to be run as a standalone folder. 
 
 ## Does Just Enough to Solve Most Problems ##
 This isn't designed to solve the biggest, most complicated problems. Most people don't actually need to solve the world's biggest problems. 
+
+## Modern (non) Application development ##
+Fancy features in a small package for non-application situations. Think of this as a structured way to add high octane interactivity to discrete pieces of a page. In other words, be great for Wordpress. 
